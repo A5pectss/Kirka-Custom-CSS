@@ -1,0 +1,195 @@
+/*
+Kirka.io Custom Css 
+Made By: A5pects_55
+*/
+
+/*Background */
+.pattern-bg {
+	background: url(https://media.discordapp.net/attachments/927792515560648745/932282680970727544/3497712.png?width=1168&height=657) !important;
+    width: 100%;
+}
+
+/*
+Other BG options will be supplimented along with this
+
+[Choice] BG: 
+(-) Light Mode -: https://images-ext-1.discordapp.net/external/fl03wUf88H6vm_vdxzf1yf80OMOf56vHUbcZKlqMBrM/https/resi.ze-robot.com/dl/4k/4k-desktop-wallpaper.-2560%25C3%25971440.jpg?width=1168&height=657
+
+(-) Dark Mode -: https://images-ext-2.discordapp.net/external/1DAMuhFsLSnS82S80g93A2YQmbsQweYMpBm-GJ0ZaLg/https/cutewallpaper.org/21/black-4k-wallpapers/Free-Download-40-Dark-Wallpaper-Images-In-4k-For-Desktop-.jpg?width=1168&height=657
+
+*/
+
+.bg-radial {
+	display:none ;
+}
+
+/* Lobby */
+.promo-link-btn {
+	display:none !important;
+}
+
+.logo {
+	display: none;
+}
+
+.soc-group[data-v-3c44abf2] {
+	display: none;
+}
+
+.systems {
+	margin-left: 10% !important;
+}
+
+.progress-line {
+   position:fixed ;
+   right:0%;
+   left: 0% !important ;
+   top: 97% }
+   
+.moneys {
+	position:fixed ;
+	right:100%;
+	left: 80% !important;
+}
+
+.right-icons {
+    background-color:transparent !important;
+	transform:translateX(90%);
+    flex-direction:column;
+}
+
+.right-icons .inventory-card {
+	-webkit-transform:translateX(-38px);
+    transform:translateX(-125px);
+	transition: ease-in-out 1.0s;
+}
+
+.inventory-card:hover {
+    transform: translateX(-px);
+}
+
+.right-icons .icon-btn {
+	display: block;
+	position: absolute;
+	right: 82%;
+	top: 100%;
+	width: 100%;
+	opacity: 0.90;
+	transition: ease-in-out 1.0s;
+}
+
+.right-icons .icon-btn:hover {
+	transform: translateX(-100px);
+}
+
+.right-icons .svg-icon[data-v-b8de1e14] {
+	margin-left: -85%;
+	margin-bottom: -30%;
+}
+
+.right-icons .text-icon {
+	margin-right: -10%;
+	margin-top: 5%;
+}
+
+/*
+.icon-btn:nth-child(1) {
+	display: 
+}
+*/
+
+/* Loading */
+.loading-scene .loading{
+	display: none;
+}
+
+.background-cont .bg-image {
+	background: url('https://media.discordapp.net/attachments/927792515560648745/932282680970727544/3497712.png?width=715&height=657')
+}
+
+/* HUD */
+.info-key-cont {
+	display: none;
+}
+
+.list-weapons {
+	display: none !important;
+}
+
+.hp {
+	margin-right: 20%;
+	transform: unset;
+}
+
+.hp-title {
+	display:none !important;
+}
+
+.state {
+	margin-left: 37%;
+	transform: unset;
+}
+
+.cont-endurance {
+	margin-left: 2%;
+}
+
+.mWwn {
+	display: none !important;
+}
+
+.weapons-cont {
+	position: fixed;
+	margin-right: 60.5%;
+	margin-bottom: -1%;
+	transform: unset ;
+}
+
+.instruction {
+	display: none !important;
+}
+
+.mini-map-cont {
+	display: none;
+}
+
+.kill-death {
+	position: fixed;
+	right: 1px;
+	bottom: 2%;
+	left: unset !important;
+	top: unset !important;
+}
+
+/* Chat */
+.chat {
+	margin-bottom: -5%;
+}
+
+/* Profile */
+.profile .avatar-info, .profile .level, .exp-values {
+	display: none;
+}
+
+.user-info {
+	visibility: hidden;
+}
+
+.progress-lvl {
+	visibility: visible;
+	margin-right: -225%;
+	margin-top: -10% !important;
+}
+
+/* Timer and Score */
+.timer{
+	position: fixed;
+	right: 605px;
+}
+
+.team-score .label {
+	margin: 26.5px;
+	margin-left: 60px;
+	margin-right: 60px;
+}
+
