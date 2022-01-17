@@ -1,7 +1,7 @@
 [READ] - 2 lines
 
 - You can change the background by copying the specified link to " background : url( paste the link here )" and leave rest as it is.
-- If you are using browser version of kirka.io , use a css web extention for this to work.
+- In browser version of kirka.io , use a css web extention for this to work.
 - Other game-wallpapers links are supplimented. [Optional Use]
 
  [SUGGESTED : CSS WEB EXTENTION ]
