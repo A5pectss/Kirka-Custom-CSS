@@ -60,7 +60,7 @@ color: purple !important;}
   position:fixed ;
   right:;
   left:%;
-  top:27%;
+  top:28%;
   font-family: 'Roboto Mono', monospace;
   color: red !important;
  
