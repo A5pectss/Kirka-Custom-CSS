@@ -15,5 +15,9 @@ Read #[READ] file before attempting to modify the css with the link.
 
 (-) Natural -: https://images-ext-2.discordapp.net/external/wPfsjpcCjPy0keT54bKwP8fgp9AT9oXBQGGGFr_-Xpw/https/images.pling.com/img/00/00/33/91/33/1370727/9d31bafb8d33869275b11364e9709074de4a.png?width=1168&height=657
 
+(-) Artistic -: https://media.discordapp.net/attachments/889067732543356948/932520749485416488/desktop-backgrounds-nawpic.png?width=1168&height=657
+
+(-) Cool x Natural -: https://media.discordapp.net/attachments/889067732543356948/932521029115445278/photo-1491466424936-e304919aada7.png?width=1168&height=657
+
 
 Adding more in next update.
