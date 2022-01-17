@@ -23,5 +23,7 @@ Read #[READ] file before attempting to modify the css with the link.
 
 (-) Natural2 -: https://media.discordapp.net/attachments/889067732543356948/932521202684149770/571930.png?width=1168&height=657
 
+(-) Dark2 -: https://media.discordapp.net/attachments/889067732543356948/932526527621517332/334700.png?width=1168&height=657
+
 
 Adding more in next update.
