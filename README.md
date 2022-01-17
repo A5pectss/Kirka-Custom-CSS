@@ -7,3 +7,5 @@ Custom CSS for kirka.io created by me.
 
 - v.0.1 : Initial Release 
 - v.0.1.1 : Added new wallpaper links ( Size pre-adjusted )
+- v.0.1.2 : Fixed Bugs 
+- v.0.2 : Added more CSS contents ( Script update.)
