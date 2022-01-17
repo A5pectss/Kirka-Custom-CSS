@@ -3,10 +3,10 @@ Custom CSS for kirka.io created by me.
 
 - This css is available for only browser. ( You may need to add Css web extension in Browser , however.)
 
-- [RECOMMENDED] 
-- USER CSS EXTENSION : https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb?hl=en 
+# RECOMMENDED 
+- INSTALL USER CSS EXTENSION IN YOUR BROWSER : https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb?hl=en 
 
-Steps : 
+- Steps to follow : 
 1. Open kirka.io in the browser
 2. Click on the extension after it has been installed in your browser (in game).
 3. paste the code into it.
