@@ -9,6 +9,7 @@ Made By: A5pects_55
     width: 100%;
 }
 
+
 /*
 Other BG options will be supplimented along with this
 
@@ -23,6 +24,7 @@ Other BG options will be supplimented along with this
 	display:none ;
 }
 
+
 /* Lobby */
 .promo-link-btn {
 	display:none !important;
@@ -35,21 +37,57 @@ Other BG options will be supplimented along with this
 .soc-group[data-v-3c44abf2] {
 	display: none;
 }
-
+.levels {
+color: purple !important;}
 .systems {
 	margin-left: 10% !important;
+ font-family: 'Roboto Mono' !important, monospace; !important;
+ opacity: 0.50;
+ 
 }
 
+.nickname { 
+  font-family: 'Neonderthaw', cursive; 
+  color: Purple !important;
+   }
+
+.card-cont  {
+  color:  !important
+  }
+
+
+.clan-tag {
+  position:fixed ;
+  right:;
+  left:%;
+  top:27%;
+  font-family: 'Roboto Mono', monospace;
+  color: red !important;
+ 
+ 
+ }
 .progress-line {
    position:fixed ;
    right:0%;
    left: 0% !important ;
-   top: 97% }
-   
+   top: 97%;
+  
+    }
+.play { 
+   color:Blue 
+   }
+.inventory-card {
+ color: cyan !important;
+ opacity: 1;
+ opacity: 0.7; }
+ 
+
 .moneys {
 	position:fixed ;
 	right:100%;
 	left: 80% !important;
+font-family: 'Roboto Mono' !important, monospace; !important;
+ opacity: 0.50;
 }
 
 .right-icons {
@@ -60,12 +98,12 @@ Other BG options will be supplimented along with this
 
 .right-icons .inventory-card {
 	-webkit-transform:translateX(-38px);
-    transform:translateX(-125px);
+    transform:translateX(-127px);
 	transition: ease-in-out 1.0s;
 }
 
 .inventory-card:hover {
-    transform: translateX(-px);
+    transform: translateX(-230px);
 }
 
 .right-icons .icon-btn {
@@ -74,8 +112,14 @@ Other BG options will be supplimented along with this
 	right: 82%;
 	top: 100%;
 	width: 100%;
-	opacity: 0.90;
+  color: cyan ;
+  opacity: 0.6;
 	transition: ease-in-out 1.0s;
+
+
+
+
+  
 }
 
 .right-icons .icon-btn:hover {
@@ -87,11 +131,22 @@ Other BG options will be supplimented along with this
 	margin-bottom: -30%;
 }
 
+.text {
+  color : Blue 
+   }
 .right-icons .text-icon {
 	margin-right: -10%;
 	margin-top: 5%;
+  opacity:1 !important;
+  color: cyan !important;
 }
 
+.wrapper {
+opacity:0.7;
+color: red !important;
+}
+.head {
+color: purple}
 /*
 .icon-btn:nth-child(1) {
 	display: 
@@ -166,6 +221,7 @@ Other BG options will be supplimented along with this
 	margin-bottom: -5%;
 }
 
+
 /* Profile */
 .profile .avatar-info, .profile .level, .exp-values {
 	display: none;
@@ -192,4 +248,3 @@ Other BG options will be supplimented along with this
 	margin-left: 60px;
 	margin-right: 60px;
 }
-
